@@ -1,0 +1,3 @@
+Sub auto_close()
+MsgBox Bye!"
+End Sub

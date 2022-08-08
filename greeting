@@ -1,0 +1,4 @@
+Sub auto_open()
+MsgBox _
+"Hello and Welcome"
+End Sub
